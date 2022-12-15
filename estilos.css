@@ -12,6 +12,8 @@ body{
     min-height: 500px;  
     margin: auto;
     background-color: #d3d3d3;
+    display: flex;
+    flex-direction: row-reverse;
   }
   
   .item{
